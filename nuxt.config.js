@@ -61,5 +61,13 @@ module.exports = {
         })
       }
     }
+  },
+
+  generate: {
+    routes(callback) {
+      const posts = require('./posts.json')
+      let routes = posts.map(post => `/post/${post.id}`)
+      callback(null, routes)
+    }
   }
 }
