@@ -1,3 +1,5 @@
+ref: [SEO、OGP……Vue.js製SPAの「困った」を解決できる「Nuxt.js」が便利だ！ - WPJ](https://www.webprofessional.jp/nuxt-js-universal-vue-js/)
+
 # nuxt-ssr-blog
 
 > My tremendous Nuxt.js project
